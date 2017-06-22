@@ -1,0 +1,23 @@
+{
+  "name": "pocketcongress-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmed/pocketcongress-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmed/pocketcongress-client/issues"
+  },
+  "homepage": "https://github.com/itsmed/pocketcongress-client#readme",
+  "dependencies": {
+    "redux": "^3.7.0"
+  }
+}
